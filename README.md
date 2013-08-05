@@ -1,0 +1,4 @@
+syntheria
+=========
+
+Simple music generator
